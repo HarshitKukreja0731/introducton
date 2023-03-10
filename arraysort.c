@@ -4,6 +4,7 @@ int main()
     int n,i,j,temp;
     scanf("%d",&n);
     int arr[n];
+    printf("this program sorts the array");
     for(i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
